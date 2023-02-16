@@ -11,6 +11,9 @@ To run this project.
   npm install
 ```
 
+Windows Users(sudhar jao coder bano)
+npm install -g win-node-env
+
 - Get Production build
 
 ```bash
